@@ -23,10 +23,10 @@ body{
 .topbanner{
     background-color: rgba(29, 59, 95, 0.80);
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
     line-height: 0.1;
     h1{
-        font-size: 100px;
+        font-size: 70px;
         color:white;
         background-color: rgba(177, 219, 209,0);
         border:none;
@@ -43,7 +43,7 @@ body{
 
 
     p{
-        font-size:25px;
+        font-size:35px;
     }
 }
 
@@ -71,7 +71,7 @@ body{
 
     border: 5px solid black;
     border-radius: 5px;;
-    width: 12%;
+    width: 15%;
     height:auto;
     text-align: center;
 
